@@ -1,6 +1,6 @@
 # ❤️ all things Turing-complete
 
-Into developing visually appealing and functional web apps. Enjoy working closely with stakeholders to meet and exceed their goals and requirements. Allways staying up-to-date with the latest industry tech and trends.
+Into developing visually appealing and functional apps. Keeping an eye out for the [next Big Thing](https://www.whitehouse.gov/wp-content/uploads/2022/02/02-2022-Critical-and-Emerging-Technologies-List-Update.pdf).
 
 - 🌍  us-west-2
 - 🖥️  [Some projects](http://aretrace.github.io)
