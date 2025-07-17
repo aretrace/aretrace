@@ -1,10 +1,6 @@
-# ❤️ all things Turing-complete
-
-Into developing visually appealing and functional apps. Keeping an eye out for the [next Big Thing](https://www.whitehouse.gov/wp-content/uploads/2022/02/02-2022-Critical-and-Emerging-Technologies-List-Update.pdf).
+# ai i guess 
 
 - 🌍  us-west-2
-<!--- - 🖥️  [Some projects](http://aretrace.github.io) -->
-- 🧠  Learning about [Signals](https://www.solidjs.com/docs/latest/api#createsignal)
 - 📫  Reach me @ [cal.com/rtrace](https://cal.com/rtrace)
 - 🤔  [Bluespec](https://github.com/B-Lang-org/bsc), [Zig](https://ziglang.org/), [3-lisp](https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html) and [ParaSail](https://en.wikipedia.org/wiki/ParaSail_(programming_language)) look interesting 
 
